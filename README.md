@@ -47,7 +47,7 @@ SW(See Wider)
   - 과거 MIT 연구진들이 만들었던 내용들이 현재에는 AR스마트글래스, 아이트래킹 장치 등 디지털 세계와 현실 세계의 연결을 좀 더 빠르고 정확하게 할 수 있게 되었다. 
 - 2025-10-10 우리가 상상한 미래1.
   <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e80ab8f-e089-4c54-94b9-1dd8fb68bf10" />
-- 씨발
+  - ㅁㄴㅇㄹ
 
   
 
