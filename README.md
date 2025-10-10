@@ -46,7 +46,8 @@ SW(See Wider)
   - 현재 마우스 컴퓨터 모니터는 만질 수 있는 물질이고, 우리가 손을 움직여서 조작해야하는 것들이지만 미래에는 머리 속으로 생각하는 것들이 모니터에 직접 나타나거나해서 마우스나 키보드가 필요 없어지거나 또 모니터도 간단한 장치를 이용해서 직접 모니터 속으로 들어가 있는 것처럼 보이는 VR이나 AR 기술들이 더 발전하여 결국 모니터 키보드 마우스도 미래에는 간소화 되거나 없어질 것 같다.
   - 과거 MIT 연구진들이 만들었던 내용들이 현재에는 AR스마트글래스, 아이트래킹 장치 등 디지털 세계와 현실 세계의 연결을 좀 더 빠르고 정확하게 할 수 있게 되었다. 
 - 2025-10-10 우리가 상상한 미래1.
-- <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e80ab8f-e089-4c54-94b9-1dd8fb68bf10" />
+  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e80ab8f-e089-4c54-94b9-1dd8fb68bf10" />
+- 씨발
 
   
 
