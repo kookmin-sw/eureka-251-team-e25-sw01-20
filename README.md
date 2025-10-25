@@ -59,6 +59,7 @@ SW(See Wider)
     - 이지형 : 화성의 개척 도시에서 여러 상황 변수(온도, 습도 등)을 조절하는 AI와 하루종일 일에 대해 논의하고 있을 것 같다.
     - 강민지 : 회사를 갔다오면 집안일은 모두 로봇이 처리해 줘서 굉장히 편한 생활을 즐기고 있을 것 같다.
     - https://mars.nasa.gov/layout/embed/image/mslweather/
+    - https://www.nasa.gov/solar-system/is-there-oxygen-on-mars-we-asked-a-nasa-technologist-episode-7/
   
 
    
