@@ -60,7 +60,8 @@ SW(See Wider)
     - 강민지 : 회사를 갔다오면 집안일은 모두 로봇이 처리해 줘서 굉장히 편한 생활을 즐기고 있을 것 같다.
     - https://mars.nasa.gov/layout/embed/image/mslweather/
     - https://www.nasa.gov/solar-system/is-there-oxygen-on-mars-we-asked-a-nasa-technologist-episode-7/
-    <img width="2245" height="3179" alt="20년뒤에 우리의 모습 (5)" src="https://github.com/user-attachments/assets/123ad01e-6daa-4fd2-9b55-7096798ebf91" />
+     <img width="2245" height="3179" alt="20년뒤에 우리의 모습 (5)" src="https://github.com/user-attachments/assets/8f5a1650-1620-4391-b3f3-35a8a7a9b042" />
+
 
   
 
