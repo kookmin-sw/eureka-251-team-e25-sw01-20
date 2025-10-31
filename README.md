@@ -61,6 +61,7 @@ SW(See Wider)
     - https://mars.nasa.gov/layout/embed/image/mslweather/
     - https://www.nasa.gov/solar-system/is-there-oxygen-on-mars-we-asked-a-nasa-technologist-episode-7/
      <img width="2245" height="3179" alt="20년뒤에 우리의 모습 (5)" src="https://github.com/user-attachments/assets/8f5a1650-1620-4391-b3f3-35a8a7a9b042" />
+     https://drive.google.com/file/d/1Xew6n6S05fjBbTAIBjwEdMevnlDgzOsn/view?usp=drive_link
 
 
   
