@@ -60,9 +60,21 @@ SW(See Wider)
     - 강민지 : 회사를 갔다오면 집안일은 모두 로봇이 처리해 줘서 굉장히 편한 생활을 즐기고 있을 것 같다.
     - https://mars.nasa.gov/layout/embed/image/mslweather/
     - https://www.nasa.gov/solar-system/is-there-oxygen-on-mars-we-asked-a-nasa-technologist-episode-7/
+     
      <img width="2245" height="3179" alt="20년뒤에 우리의 모습 (5)" src="https://github.com/user-attachments/assets/8f5a1650-1620-4391-b3f3-35a8a7a9b042" />
      https://drive.google.com/file/d/1Xew6n6S05fjBbTAIBjwEdMevnlDgzOsn/view?usp=drive_link
-
+  - 2025-11-14 대학원 선배 만나기
+    - Q1 주로 연구하시는 분야
+    - 
+    - Q2 대학원의 일상에 대해
+    - 
+    - Q3 지금 밟고 있는 과정은 어떤 것?
+    - 
+    - Q4 대학원으로의 진학을 결정하게된 이유
+    - 
+    - Q5 지금 밟고 있는 과정을 완수하면 앞으로 어떤 일을?
+    - 
+    - Q6    
 
   
 
