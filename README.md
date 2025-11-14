@@ -62,19 +62,7 @@ SW(See Wider)
     - https://www.nasa.gov/solar-system/is-there-oxygen-on-mars-we-asked-a-nasa-technologist-episode-7/
      
      <img width="2245" height="3179" alt="20년뒤에 우리의 모습 (5)" src="https://github.com/user-attachments/assets/8f5a1650-1620-4391-b3f3-35a8a7a9b042" />
-     https://drive.google.com/file/d/1Xew6n6S05fjBbTAIBjwEdMevnlDgzOsn/view?usp=drive_link
-  - 2025-11-14 대학원 선배 만나기
-    - Q1 주로 연구하시는 분야
-    - 
-    - Q2 대학원의 일상에 대해
-    - 
-    - Q3 지금 밟고 있는 과정은 어떤 것?
-    - 
-    - Q4 대학원으로의 진학을 결정하게된 이유
-    - 
-    - Q5 지금 밟고 있는 과정을 완수하면 앞으로 어떤 일을?
-    - 
-    - Q6    
+     https://drive.google.com/file/d/1Xew6n6S05fjBbTAIBjwEdMevnlDgzOsn/view?usp=drive_link   
 
   
 
@@ -86,7 +74,18 @@ SW(See Wider)
 
 - 멘토링 ✔️  
   - 내 지도 교수 함게 만나기
-  - 대학원 방문 및 선배 만나기
+  -  2025-11-14 대학원 선배 만나기
+    - Q1 주로 연구하시는 분야
+    - 
+    - Q2 대학원의 일상에 대해
+    - 
+    - Q3 지금 밟고 있는 과정은 어떤 것?
+    - 
+    - Q4 대학원으로의 진학을 결정하게된 이유
+    - 
+    - Q5 지금 밟고 있는 과정을 완수하면 앞으로 어떤 일을?
+    - 
+    - Q6 
 
 - 프로젝트 진행 ✔️  
   - 과거에 사람들이 상상한 미래
