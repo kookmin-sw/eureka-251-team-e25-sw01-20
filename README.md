@@ -90,7 +90,9 @@ SW(See Wider)
     - Q8 무슨 연구?
     - 문제를 나만의 방식으로 표현, 어떤 문제에 대해 아이디어를 적용시켰을 때 개선이 되길 바람.
     - Q9 추천 공부
-    - open ai agent builder. 
+    - open ai agent builder.
+    - ![KakaoTalk_20251114_114948469_01](https://github.com/user-attachments/assets/629cec27-fa94-4371-aa78-8f968688a0f2)
+
 
 - 프로젝트 진행 ✔️  
   - 과거에 사람들이 상상한 미래
