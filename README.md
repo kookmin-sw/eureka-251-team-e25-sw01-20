@@ -64,37 +64,6 @@ SW(See Wider)
      <img width="2245" height="3179" alt="20년뒤에 우리의 모습 (5)" src="https://github.com/user-attachments/assets/8f5a1650-1620-4391-b3f3-35a8a7a9b042" />
      https://drive.google.com/file/d/1Xew6n6S05fjBbTAIBjwEdMevnlDgzOsn/view?usp=drive_link   
 
-  
-
-   
-- 
-- 기관/부서 인터뷰 ✔️
-
-- 현장 탐방 ✔️  투
-
-- 멘토링 ✔️  
-  - 2025-11-21 내 지도 교수 함게 만나기(윤명근 교수님)
-    - Q1 분야가 정보 통신인 것으로 알고있는데 보통 무엇을 주로 연구하시나요?
-    - ㅜ현재 마우스 컴퓨터 모니터는 만질 수 있는 물질이고, 우리가 손을 움직여서 조작해야하는 것들이지만 미래에는 머리 속으로 생각하는 것들이 모니터에 직접 나타나거나해서 마우스나 키보드가 필요 없어지거나 또 모니터도 간단한 장치를 이용해서 직접 모니터 속으로 들어가 있는 것처럼 보이는 VR이나 AR 기술들이 더 발전하여 결국 모니터 키보드 마우스도 미래에는 간소화 되거나 없어질 것 같다.
-  - 과거 MIT 연구진들이 만들었던 내용들이 현재에는 AR스마트글래스, 아이트래킹 장치 등 디지털 세계와 현실 세계의 연결을 좀 더 빠르고 정확하게 할 수 있게 되었다. 
-- 2025-10-10 우리가 상상한 미래1.
-  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2e80ab8f-e089-4c54-94b9-1dd8fb68bf10" />
-  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/204c8a90-3e37-483a-8a4d-7258c94dc91e" />
-
-  - 인간형 가정용 로봇 : 일반 가정에서 사용되는 인간과 외견이 비슷하고 인간과 비슷한 역할을 할 수 있는 로봇.
-  - 에어로젤 : 이미 몇몇 분야에서 단열재로 사용되고 있지만 여러가지 불편한 이유로 상용화 되지 않는 에어로젤을 지구온난화의 대책으로 쓸 수 있다.
-  - 화성 : 화성으로의 여행이 일상이 되고 화성에서 지내는 사람도 몇몇 생긴다.
-  - 생체 공학 : 3D프린터를 이용해 만들어지는 인공 장기와 여러 과학 기술을 통해 노화를 늦추고 장기를 실제 사람들에게 제공 받지 않아도 된다.
-  - 미래의 나의 모습
-    - 이서준 : 한 회사에서 내가 배운 소프트웨어 지식들을 잘 쓰는 사람이 되어 있을 것 같다.
-    - 김현우 : 빅테크 기업에 취업해서 사람들이 꿈꾸는 기술을 개발하는 사람이 되어 있을 것 같다.
-    - 이지형 : 화성의 개척 도시에서 여러 상황 변수(온도, 습도 등)을 조절하는 AI와 하루종일 일에 대해 논의하고 있을 것 같다.
-    - 강민지 : 회사를 갔다오면 집안일은 모두 로봇이 처리해 줘서 굉장히 편한 생활을 즐기고 있을 것 같다.
-    - https://mars.nasa.gov/layout/embed/image/mslweather/
-    - https://www.nasa.gov/solar-system/is-there-oxygen-on-mars-we-asked-a-nasa-technologist-episode-7/
-     
-     <img width="2245" height="3179" alt="20년뒤에 우리의 모습 (5)" src="https://github.com/user-attachments/assets/8f5a1650-1620-4391-b3f3-35a8a7a9b042" />
-     https://drive.google.com/file/d/1Xew6n6S05fjBbTAIBjwEdMevnlDgzOsn/view?usp=drive_link   
 
   
 
